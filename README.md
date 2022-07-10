@@ -29,11 +29,11 @@ Requires Node 12 or above
   npm install axios --save
 ```
 
-- https://gavesha.netlify.app/projects/whatsappfy | Setup LastFM
+- https://gavesha.netlify.app/whatsappfy | Setup LastFM
     
 ## Installation (Script)
 
-- Follow https://gavesha.netlify.app/projects/whatsappfy
+- Follow https://gavesha.netlify.app/whatsappfy
 ## Screenshots
 
 ![App Screenshot](https://gavesha.netlify.app/projects/whatsappfy/preview.jpg)
