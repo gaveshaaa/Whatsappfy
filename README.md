@@ -1,14 +1,8 @@
 
-
-![Logo](https://gavesha.netlify.app/projects/whatsappfy/whatsappfy-logo.png)
-
-
-# WhatsappFy
+# WhatsappFy (Discontinued : 2022/7/20)
 
 Automatically changes your about me according to current music playing
 using Whatsapp JS and LastFM API
-
-
 
 ## Features
 
@@ -16,7 +10,6 @@ using Whatsapp JS and LastFM API
 - 👍 Customizable fallback status
 - 👍 Customizable intervals
 - 👍 Previous Session Loading
-
 
 
 ## Installation (Manual)
@@ -28,15 +21,6 @@ Requires Node 12 or above
   npm install qrcode-terminal --save
   npm install axios --save
 ```
-
-- https://gavesha.netlify.app/whatsappfy | Setup LastFM
-    
-## Installation (Script)
-
-- Follow https://gavesha.netlify.app/whatsappfy
-## Screenshots
-
-![App Screenshot](https://gavesha.netlify.app/projects/whatsappfy/preview.jpg)
 
 
 
