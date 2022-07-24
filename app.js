@@ -47,7 +47,7 @@ client.on('change_state', state => {
 client.on('ready', async () => {
     logData(`Successfully Connected! - ${client.info.wid.user}`);
     logData(`Please use Ctrl + C to Quit the application [!]`);
-    const lastfmURL = `http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${lastFM_username}&api_key=bc7d8b115b80b72d06943680bb0774d7&format=json`;
+    const lastfmURL = `http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${lastFM_username}&api_key=APIKEY!!!!!!!!!!&format=json`;
     var lastSong;
     var isListening;
 
